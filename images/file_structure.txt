@@ -1,0 +1,12 @@
+kafka_data_pipeline/
+├─ images/
+│  ├─ file_structure.png
+├─ conda/
+│  ├─ packages.txt
+│  ├─ data_generation.py
+├─ docker/
+│  ├─ pg_docker.yml
+│  ├─ kafka_docker.yml
+│  ├─ mysql_docker.yml
+├─ .gitignore
+├─ README.md
